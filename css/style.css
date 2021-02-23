@@ -355,7 +355,7 @@ h2 {
 }
 
 .oliva__column:first-child:after {
-  content: url(../../img/icons/mini_img_1.png);
+  content: url(../img/icons/mini_img_1.png);
   position: absolute;
   top: 50%;
   left: 50%;
@@ -517,7 +517,7 @@ h2 {
 }
 
 .boriosa__column:last-child:after {
-  content: url(../../img/icons/mini_img_2.png);
+  content: url(../img/icons/mini_img_2.png);
   position: absolute;
   top: 50%;
   left: 50%;
@@ -671,7 +671,7 @@ h2 {
 }
 
 .retro__column:first-child:after {
-  content: url(../../img/icons/mini_img_3.png);
+  content: url(../img/icons/mini_img_3.png);
   position: absolute;
   top: 50%;
   left: 50%;
