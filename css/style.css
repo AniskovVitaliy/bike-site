@@ -1295,7 +1295,7 @@ button[type=submit] {
 }
 
 .footer__text-right p::after {
-  content: url(../../img/icons/yebo_logo.png);
+  content: url(../img/icons/yebo_logo.png);
   position: absolute;
   top: -50%;
   right: 0;
